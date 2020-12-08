@@ -6,7 +6,7 @@ Welcome to my GitHub! Below is a selected repository list of projects I've worke
 
 Below is a breakdown of my technical skills. You can see example projects in each technology below this section in the Repository Portfolio.
 
-<table>
+<table width="100%">
 <tbody>
   <tr>
     <td>Languages</td>
