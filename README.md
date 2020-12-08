@@ -104,5 +104,5 @@ A Solar System simulation using the PyGame Python game engine library. A graphic
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyRavi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/ShreyRavi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyRavi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyRavi&card_width=220&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
