@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used. 
 
-See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](https://www.linkedin.com/in/shreyravi/) for more information, or [email me](mailto:shrey@gshreyravi.com).
+See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](https://www.linkedin.com/in/shreyravi/) for more information, or [email me](mailto:shrey@shreyravi.com).
 
 ## Technical Skills
 
