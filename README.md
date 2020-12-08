@@ -1,6 +1,8 @@
 # Shrey Ravi's GitHub ![](https://visitor-badge.laobi.icu/badge?page_id=ShreyRavi.ShreyRavi) 
 
-Welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used. See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](https://www.linkedin.com/in/shreyravi/) for more information.
+Welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used. 
+
+See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](https://www.linkedin.com/in/shreyravi/) for more information, or [email me](mailto:shrey@gshreyravi.com).
 
 ## Technical Skills
 
@@ -49,7 +51,7 @@ A CHIP-8 Emulator written in Java, part of a series of CHIP-8 implementations in
 Technology Used: _Java_
 
 ### [covid-19-sms](https://github.com/ShreyRavi/covid-19-sms)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-A Twilio powered SMS service that returns localized COVID-19 stats, built with Python/Flask. Text a zip, state, or city to +1 (231) 774-2545.
+A Twilio powered SMS service that returns localized COVID-19 stats, built with Python/Flask. Text a zip, state, or city to [+1 (231) 774-2545](tel:12317742545).
 
 Technology Used: __
 
