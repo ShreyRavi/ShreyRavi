@@ -38,62 +38,62 @@ Below is a breakdown of my technical skills. You can see example projects in eac
 ### [subscribii.com](https://github.com/ShreyRavi/subscribii)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 A full-stack subscription tracker built with React + Google Firebase backend. Live at [subscribii.com](https://www.subscribii.com).
 
-Technology Used: _React, Firebase, JavaScript, Material-UI_
+Tags: _React, Firebase, JavaScript, Material-UI_
 
 ### [covid-19-data-visualization](https://github.com/ShreyRavi/covid-19-data-visualization)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 A full-stack React + Python/Flask-built COVID-19 data visualization example to showcase a full-stack project all in one live deployment.
 
-Technology Used: __
+Tags: __
 
 ### [chip-8-java]()  <img height="25px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 A CHIP-8 Emulator written in Java, part of a series of CHIP-8 implementations in different languages.
 
-Technology Used: _Java_
+Tags: _Java_
 
 ### [covid-19-sms](https://github.com/ShreyRavi/covid-19-sms)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-A Twilio powered SMS service that returns localized COVID-19 stats, built with Python/Flask. Text a zip, state, or city to [+1 (231) 774-2545](tel:12317742545).
+A Twilio powered SMS service that returns localized COVID-19 stats, built with Python/Flask. Text a zip, state, or city to +1 (231) 774-2545.
 
-Technology Used: __
+Tags: __
 
 ### [workmode](https://github.com/ShreyRavi/workmode)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 A Google Chrome plug-in that allows the blocking of certain time-wasting websites for 10,000+ active users!
 
-Technology Used: __
+Tags: __
 
 ### [walk-safe-home](https://github.com/ShreyRavi/walk-safe-home)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 A personal safety app with a panic button, geo-location, and Twilio integration. Built with React.
 
-Technology Used: __
+Tags: __
 
 ### [js-game-of-life](https://github.com/ShreyRavi/js-game-of-life)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 An implementation of Conway's Game of Life using purely JavaScript/CSS/HTML, prioritizing code readability and clarity over efficiency.
 
-Technology Used: __
+Tags: __
 
 ### [react-calculator](https://github.com/ShreyRavi/react-calculator)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 An example of modern React code for a calculator.
 
-Technology Used: __
+Tags: __
 
 ### [personal-website](https://github.com/ShreyRavi/personal-website)  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 This is the repository for my personal website. It is coded in purely minimalist HTML, JS, and CSS.
 
-Technology Used: __
+Tags: __
 
 ### [etch-a-sketch-js](https://github.com/ShreyRavi/etch-a-sketch-js)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 A JavaScript version of an Etch-a-Sketch board, created for the Odin Project.
 
-Technology Used: __
+Tags: __
 
 ### [noimage](https://github.com/ShreyRavi/noimage)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 NoImage - Remove ALL Images While Surfing - A Google Chrome Extension that disables visibility of ALL images loaded on a page when activated.
 
-Technology Used: __
+Tags: __
 
 ### [SolarSystem](https://github.com/ShreyRavi/SolarSystem)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 A Solar System simulation using the PyGame Python game engine library. A graphics programming example.
 
-Technology Used: __
+Tags: __
 
 ## Statistics
 
