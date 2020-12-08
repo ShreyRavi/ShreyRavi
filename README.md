@@ -6,7 +6,7 @@ See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](ht
 
 ## Technical Skills
 
-Below is a breakdown of my technical skills. You can see example projects using these technologies in the next section.
+Below is a breakdown of my technical skills. You can see projects using these technologies in the next section.
 
 <table width="100%">
 <tbody>
