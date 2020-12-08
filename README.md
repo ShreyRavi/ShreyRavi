@@ -100,11 +100,11 @@ A Solar System simulation using the PyGame Python game engine library. A graphic
 <a href="https://github.com/ShreyRavi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyRavi&show_icons=true&theme=default&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true" />
 </a>
-
+<br />
 <a href="https://github.com/ShreyRavi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyRavi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-
+<br />
 <a href="https://github.com/ShreyRavi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyRavi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
