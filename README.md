@@ -98,7 +98,7 @@ A Solar System simulation using the PyGame Python game engine library. A graphic
 ## Statistics
 
 <a href="https://github.com/ShreyRavi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyRavi&show_icons=true&theme=default&count_private=true&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyRavi&show_icons=true&theme=default&count_private=true&hide_rank=truehide_border=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/ShreyRavi">
