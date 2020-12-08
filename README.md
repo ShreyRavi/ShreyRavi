@@ -97,12 +97,6 @@ A Solar System simulation using the PyGame Python game engine library. A graphic
 
 ## Statistics
 
-<table>
-  <tbody>
-    <tr>
-      <td> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyRavi&show_icons=true&theme=default&count_private=true&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true)</td>
-      <td>[![Shrey Ravi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShreyRavi)](https://github.com/anuraghazra/github-readme-stats)
-</td>
-    </tr>
-  </tbody>
-</table>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyRavi&show_icons=true&theme=default&count_private=true&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true)
+[![Shrey Ravi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShreyRavi)](https://github.com/anuraghazra/github-readme-stats)
+
