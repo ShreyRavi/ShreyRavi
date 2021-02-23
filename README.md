@@ -50,7 +50,7 @@ A CHIP-8 Emulator written in Java, part of a series of CHIP-8 implementations in
 
 <!-- Tags: _CHIP-8, Emulation Development, Java, Java Swing_ -->
 
-### [covid-19-sms](https://github.com/ShreyRavi/covid-19-sms)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> 
+### [covid-19-sms](https://github.com/ShreyRavi/covid-19-sms)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img height="25px" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 A Twilio powered SMS service that returns localized COVID-19 stats, built with Python/Flask. Text a zip, state, or city to +1 (231) 774-2545.
 
 <!-- Tags: _Twilio, DEV.to Hackathon, COVID-19, Python, Flask, Heroku_ -->
