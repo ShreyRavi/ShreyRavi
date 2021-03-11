@@ -96,7 +96,8 @@ A Solar System simulation using the PyGame Python game engine library. A graphic
 <!-- Tags: _Graphics, Game Programming, Python, PyGame_ -->
 
 ## Published Packages / Software
-1. [npm - decrypt-caesar](https://www.npmjs.com/package/@shreyravi/decrypt-caesar)
+1. [npm - tui-table-of-contents] (https://www.npmjs.com/package/tui-table-of-contents)
+2. [npm - decrypt-caesar](https://www.npmjs.com/package/@shreyravi/decrypt-caesar)
 
 ## Statistics
 
