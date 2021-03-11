@@ -45,8 +45,8 @@ A full-stack React + Python/Flask-built COVID-19 data visualization example to s
 
 <!-- Tags: _Full-Stack, Data Visualization, COVID-19, Python, Flask, React, Material-UI, JavaScript, Heroku_ -->
 
-### [chip-8-java]()  <img height="25px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-A CHIP-8 Emulator written in Java, part of a series of CHIP-8 implementations in different languages.
+<!-- ### [chip-8-java]()  <img height="25px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+A CHIP-8 Emulator written in Java, part of a series of CHIP-8 implementations in different languages. -->
 
 <!-- Tags: _CHIP-8, Emulation Development, Java, Java Swing_ -->
 
