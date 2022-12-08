@@ -1,6 +1,6 @@
 # Shrey Ravi's GitHub ![](https://visitor-badge.laobi.icu/badge?page_id=ShreyRavi.ShreyRavi) 
 
-Welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used. 
+Hi, my name is Shrey Ravi (né Shreyas Tallamraju), and welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used.
 
 See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](https://www.linkedin.com/in/shreyravi/) for more information, or [email me](mailto:shrey@shreyravi.com).
 
