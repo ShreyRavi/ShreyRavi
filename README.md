@@ -1,6 +1,6 @@
 # Shrey Ravi's GitHub ![](https://visitor-badge.laobi.icu/badge?page_id=ShreyRavi.ShreyRavi) 
 
-Hi, my name is Shrey Ravi, and welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used.
+Hi, my name is Shreyas "Shrey Ravi" Tallamraju, and welcome to my GitHub! Below is a repository list of projects I've worked on and what technologies I've used.
 
 See my website at [ShreyRavi.com](https://www.shreyravi.com) or my [LinkedIn](https://www.linkedin.com/in/shreyravi/) for more information, or [email me](mailto:shrey@shreyravi.com).
 
@@ -147,14 +147,4 @@ A Solar System simulation using the PyGame Python game engine library. A graphic
 
 ## Statistics
 
-<a href="https://github.com/ShreyRavi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyRavi&show_icons=true&theme=default&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true" />
-</a>
-<br />
-<a href="https://github.com/ShreyRavi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyRavi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<br />
-<a href="https://github.com/ShreyRavi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyRavi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyRavi)](https://github.com/anuraghazra/github-readme-stats)
