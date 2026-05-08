@@ -39,105 +39,185 @@ Below is a breakdown of my technical skills. You can see projects using these te
 
 ## Repository Portfolio
 
-### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-A minimalist Kanban + Todo platform named after *kanso* (簡素), the Japanese aesthetic principle of simplicity through elimination of clutter. Free forever for unlimited collaborators. Live at [kansoboard.com](https://kansoboard.com).
+### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
 
-<!-- Tags: _Full-Stack, Productivity, Next.js, TypeScript, Tailwind, Radix UI, Tiptap, Supabase, Vercel_ -->
+<!-- Tags: _Productivity, Kanban, SaaS, Next.js, Supabase_ -->
 
-### [orbit-crafter](https://github.com/ShreyRavi/orbit-crafter)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/webgpu%20-%23005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white"/>
-A real-time, GPU-accelerated N-body physics universe sandbox. Gravitational interactions for thousands of bodies are computed entirely on the GPU using WebGPU compute shaders.
+---
 
-<!-- Tags: _Graphics, GPU, WebGPU, WGSL, N-body, Physics, TypeScript_ -->
+### [orbit-crafter](https://github.com/ShreyRavi/orbit-crafter)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/webgpu%20-%23005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white"/>
+Real-time N-body physics sandbox with gravitational interactions computed entirely on the GPU via WebGPU compute shaders and WGSL, handling thousands of bodies at interactive frame rates. No CPU-side physics loop.
 
-### [tenenshealth.com](https://tenenshealth.com)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-A health platform built with Python and a containerized PostgreSQL backend. Live at [tenenshealth.com](https://tenenshealth.com).
+<!-- Tags: _Graphics, Physics, WebGPU, Simulation_ -->
 
-<!-- Tags: _Health, Full-Stack, Python, PostgreSQL, Docker_ -->
+---
 
-### [atlas-trails](https://github.com/ShreyRavi/atlas-trails)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-AtlasTrail — *map every journey*. A travel journal progressive web app with an interactive world map for logging trips and pins. Live at [atlas-trails.vercel.app](https://atlas-trails.vercel.app).
+### [rust-life-gpu](https://github.com/ShreyRavi/rust-life-gpu)  <img height="25px" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/wgpu%20-%23B7410E.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+GPU-parallelized cellular automaton in Rust and wgpu, running Conway's Game of Life and configurable rule sets at real-time frame rates across large grids. Each generation is computed in a single GPU dispatch rather than cell-by-cell on the CPU.
 
-<!-- Tags: _Travel, PWA, Next.js, TypeScript, Maps, Vercel_ -->
+<!-- Tags: _Rust, Graphics, GPU, Simulation_ -->
 
-### [subscribii.com](https://github.com/ShreyRavi/subscribii)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-A full-stack subscription tracker built with React + Google Firebase backend. Live at [subscribii.com](https://www.subscribii.com).
+---
 
-<!-- Tags: _Full-Stack, React, Firebase, Google Authentication, JavaScript, Material-UI_ -->
+### [shrey-os](https://github.com/ShreyRavi/shrey-os)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/claude%20-%23D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
+Personal AI operating system built on gstack with domain-specific skills including /gtm-plan, /hiring-decision, /pricing-strategy, /board-update, and /decision-framework. Functions as a structured reasoning environment for founder-level decisions rather than a general-purpose chat interface.
 
-### [workmode](https://github.com/ShreyRavi/workmode)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-A Google Chrome plug-in that allows the blocking of certain time-wasting websites. Used by 10,000+ active users.
+<!-- Tags: _AI, Productivity, Claude, Automation_ -->
 
-<!-- Tags: _Google, Chrome Extension, JavaScript, HTML5, CSS3_ -->
+---
 
-### [walk-safe-home](https://github.com/ShreyRavi/walk-safe-home)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-A personal safety app with a panic button, geo-location, and Twilio integration. Built with React.
+### [chip8-rs](https://github.com/ShreyRavi/chip8-rs)  <img height="25px" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+CHIP-8 emulator written in Rust with full instruction set coverage, display output, and keyboard input handling. A from-scratch systems programming exercise with no emulation libraries.
 
-<!-- Tags: _Personal Safety, Twilio, React, Material-UI, JavaScript, Heroku_ -->
+<!-- Tags: _Rust, Emulator, Systems_ -->
 
-### [covid-19-data-visualization](https://github.com/ShreyRavi/covid-19-data-visualization)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-A full-stack React + Python/Flask-built COVID-19 data visualization to showcase a full-stack project all in one live deployment.
+---
 
-<!-- Tags: _Full-Stack, Data Visualization, COVID-19, Python, Flask, React, Material-UI, JavaScript, Heroku_ -->
+### [workmode](https://workmode.org)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+Chrome extension that blocks distracting websites, with 10,000+ active users. Source at [github.com/ShreyRavi/workmode](https://github.com/ShreyRavi/workmode).
 
-### [covid-19-sms](https://github.com/ShreyRavi/covid-19-sms)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img height="25px" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-A Twilio-powered SMS service that returned localized COVID-19 stats, built with Python/Flask. Originally text a zip, state, or city to +1 (231) 774-2545.
+<!-- Tags: _Chrome Extension, Productivity_ -->
 
-<!-- Tags: _Twilio, DEV.to Hackathon, COVID-19, Python, Flask, Heroku_ -->
+---
 
-### [digital-art](https://github.com/ShreyRavi/digital-art)  <img height="25px" src="https://img.shields.io/badge/p5.js%20-%23ED225D.svg?&style=for-the-badge&logo=p5.js&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-A portfolio of digital art and creative coding sketches built with p5.js.
+### [atlas-trails](https://atlas-trails.vercel.app)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
 
-<!-- Tags: _Creative Coding, Generative Art, p5.js, JavaScript, HTML5_ -->
+<!-- Tags: _PWA, Maps, Next.js, Travel_ -->
+
+---
+
+### [tenens-health](https://tenenshealth.com)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+Health platform with a containerized Python backend and PostgreSQL data layer, deployed via Docker. Source at [github.com/ShreyRavi/tenens-health](https://github.com/ShreyRavi/tenens-health).
+
+<!-- Tags: _Health, Python, Docker, PostgreSQL_ -->
+
+---
+
+### [subscribii](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Full-stack subscription tracker with Google OAuth, real-time Firebase backend, and a Material UI frontend. Source at [github.com/ShreyRavi/subscribii](https://github.com/ShreyRavi/subscribii).
+
+<!-- Tags: _React, Firebase, SaaS, Finance_ -->
+
+---
+
+### [walk-safe-home](https://walksafe.co)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+Personal safety app with a panic button, geo-location tracking, and Twilio SMS integration for emergency contact alerts. Source at [github.com/ShreyRavi/walk-safe-home](https://github.com/ShreyRavi/walk-safe-home).
+
+<!-- Tags: _Safety, React, Twilio, Heroku_ -->
+
+---
+
+### [covid-19-sms](https://github.com/ShreyRavi/covid-19-sms)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+Twilio-powered SMS service returning localized COVID-19 case and death statistics by zip code, state, or city, built on Python, Flask, Pandas, and NumPy. DEV.to hackathon project.
+
+<!-- Tags: _Python, Twilio, Data, Flask_ -->
+
+---
+
+### [covid-19-data-visualization](https://github.com/ShreyRavi/covid-19-data-visualization)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+Full-stack COVID-19 data visualization with a React and Material UI frontend consuming a Python/Flask REST API, deployed on Heroku.
+
+<!-- Tags: _Data Visualization, React, Python, Flask_ -->
+
+---
+
+### [lang-simpleboolean](https://github.com/ShreyRavi/lang-simpleboolean)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+Published npm package implementing a boolean-based syntax language for CodeMirror 6, including tokenizer, parser, and highlighting support.
+
+<!-- Tags: _npm, CodeMirror, Language, TypeScript_ -->
+
+---
 
 ### [prosemirror-toc](https://github.com/ShreyRavi/prosemirror-toc)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-An implementation of a table of contents within ProseMirror.
+Table of contents plugin for ProseMirror that auto-generates and syncs a TOC from document heading nodes.
 
 <!-- Tags: _ProseMirror, Editor, Plugin, JavaScript_ -->
 
-### [codemirror-6-react-example](https://github.com/ShreyRavi/codemirror-6-react-example)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-An example of CodeMirror 6 implemented in React.
-
-<!-- Tags: _CodeMirror 6, React, Editor, JavaScript_ -->
+---
 
 ### [tui.table-of-contents](https://github.com/ShreyRavi/tui.table-of-contents)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-A table-of-contents plugin for the Toast UI Editor, also published on npm.
+Published npm plugin that adds table of contents generation to the Toast UI Editor.
 
-<!-- Tags: _Toast UI, Editor, Plugin, JavaScript, npm_ -->
+<!-- Tags: _npm, Toast UI, Editor, Plugin_ -->
+
+---
 
 ### [tui.citation](https://github.com/ShreyRavi/tui.citation)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-A citation custom plugin for the Toast UI Editor.
+Citation insertion plugin for Toast UI Editor, adding formatted inline citation support to the editor toolbar.
 
 <!-- Tags: _Toast UI, Editor, Plugin, JavaScript_ -->
 
-### [js-game-of-life](https://github.com/ShreyRavi/js-game-of-life)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-An implementation of Conway's Game of Life using purely JavaScript/CSS/HTML, prioritizing code readability and clarity over efficiency.
-
-<!-- Tags: _Conway's Game of Life, Game Programming, Graphics, JavaScript, HTML5, CSS3, GitHub Environment_ -->
-
-### [react-calculator](https://github.com/ShreyRavi/react-calculator)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-An example of modern React code for a calculator.
-
-<!-- Tags: _React, React Hooks, JavaScript, TypeScript, GitHub Environment_ -->
-
-### [personal-website](https://github.com/ShreyRavi/personal-website)  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-The repository for my personal website. Coded in purely minimalist HTML, JS, and CSS.
-
-<!-- Tags: _Minimalist, Personal Website, HTML, CSS, JavaScript_ -->
-
-### [etch-a-sketch-js](https://github.com/ShreyRavi/etch-a-sketch-js)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-A JavaScript version of an Etch-a-Sketch board, created for the Odin Project.
-
-<!-- Tags: _Graphics, Game Programming, HTML, CSS, JavaScript, Odin Project_ -->
-
-### [noimage](https://github.com/ShreyRavi/noimage)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-NoImage — Remove ALL Images While Surfing. A Google Chrome Extension that disables visibility of all images loaded on a page when activated.
-
-<!-- Tags: _Google, Chrome Extension, Minimalist, JavaScript, HTML, CSS_ -->
+---
 
 ### [SolarSystem](https://github.com/ShreyRavi/SolarSystem)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-A Solar System simulation using the PyGame Python game engine library. A graphics programming example.
+Newtonian solar system simulation with PyGame rendering, modeling gravitational attraction between bodies using real physical constants.
 
-<!-- Tags: _Graphics, Game Programming, Python, PyGame_ -->
+<!-- Tags: _Python, Simulation, Physics, PyGame_ -->
+
+---
+
+### [digital-art](https://github.com/ShreyRavi/digital-art)  <img height="25px" src="https://img.shields.io/badge/p5.js%20-%23ED225D.svg?&style=for-the-badge&logo=p5.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Collection of generative art and creative coding sketches written in p5.js.
+
+<!-- Tags: _Creative Coding, p5.js, Art_ -->
+
+---
+
+### [codemirror-6-react-example](https://github.com/ShreyRavi/codemirror-6-react-example)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Minimal reference integration showing how to embed a CodeMirror 6 editor instance inside a React component tree with controlled state.
+
+<!-- Tags: _CodeMirror, React, Reference_ -->
+
+---
+
+### [decrypt-caesar](https://github.com/ShreyRavi/decrypt-caesar)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Published npm package that decrypts Caesar shift ciphers without knowing the shift value, using frequency analysis to identify the most probable plaintext.
+
+<!-- Tags: _npm, Cryptography, JavaScript_ -->
+
+---
+
+### [js-game-of-life](https://shreyravi.com/gol/)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+Conway's Game of Life in vanilla JavaScript with no dependencies, written for readability over performance. Source at [github.com/ShreyRavi/js-game-of-life](https://github.com/ShreyRavi/js-game-of-life).
+
+<!-- Tags: _JavaScript, Simulation, Vanilla_ -->
+
+---
+
+### [react-calculator](https://github.com/ShreyRavi/react-calculator)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+Calculator built in React and TypeScript as a reference implementation of controlled components and typed event handling.
+
+<!-- Tags: _React, TypeScript, Reference_ -->
+
+---
+
+### [noimage](https://github.com/ShreyRavi/noimage)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+Chrome extension that removes all image elements from any page on activation, useful for low-bandwidth browsing or distraction reduction.
+
+<!-- Tags: _Chrome Extension, JavaScript_ -->
+
+---
+
+### [tui-editor-example](https://github.com/ShreyRavi/tui-editor-example)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Testbed used during development of the tui.table-of-contents and tui.citation plugins for Toast UI Editor.
+
+<!-- Tags: _Toast UI, Editor, JavaScript_ -->
+
+---
+
+### [personal-website](https://shreyravi.github.io/personal-website/)  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+Minimalist personal site in plain HTML, CSS, and JavaScript with no frameworks. Source at [github.com/ShreyRavi/personal-website](https://github.com/ShreyRavi/personal-website).
+
+<!-- Tags: _HTML, CSS, Personal Site_ -->
+
+---
+
+### [etch-a-sketch-js](https://github.com/ShreyRavi/etch-a-sketch-js)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+Browser-based Etch-a-Sketch with a resizable grid and color options, built for The Odin Project curriculum.
+
+<!-- Tags: _JavaScript, HTML, Odin Project_ -->
 
 ## Published Packages / Software
 1. [npm - lang-simpleboolean](https://www.npmjs.com/package/lang-simpleboolean)
