@@ -109,14 +109,14 @@ Travel journal PWA where users log trips, drop pins on an interactive world map,
 
 ---
 
-### [subscribii](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 Full-stack subscription tracker with Google OAuth, real-time Firebase backend, and a Material UI frontend. Source at [github.com/ShreyRavi/subscribii](https://github.com/ShreyRavi/subscribii).
 
 <!-- Tags: _React, Firebase, SaaS, Finance_ -->
 
 ---
 
-### [walk-safe-home](https://walksafe.co)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+### [walk-safe-home](https://github.com/ShreyRavi/walk-safe-home)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 Personal safety app with a panic button, geo-location tracking, and Twilio SMS integration for emergency contact alerts. Source at [github.com/ShreyRavi/walk-safe-home](https://github.com/ShreyRavi/walk-safe-home).
 
 <!-- Tags: _Safety, React, Twilio, Heroku_ -->
@@ -179,7 +179,7 @@ Calculator built in React and TypeScript as a reference implementation of contro
 
 ---
 
-### [noimage](https://github.com/ShreyRavi/noimage)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+### [noimage Chrome Extension](https://github.com/ShreyRavi/noimage)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 Chrome extension that removes all image elements from any page on activation, useful for low-bandwidth browsing or distraction reduction.
 
 <!-- Tags: _Chrome Extension, JavaScript_ -->
