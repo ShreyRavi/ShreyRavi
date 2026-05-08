@@ -39,31 +39,10 @@ Below is a breakdown of my technical skills. You can see projects using these te
 
 ## Repository Portfolio
 
-### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
-
-<!-- Tags: _Productivity, Kanban, SaaS, Next.js, Supabase_ -->
-
----
-
 ### [orbit-crafter](https://github.com/ShreyRavi/orbit-crafter)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/webgpu%20-%23005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white"/>
 Real-time N-body physics sandbox with gravitational interactions computed entirely on the GPU via WebGPU compute shaders and WGSL, handling thousands of bodies at interactive frame rates. No CPU-side physics loop.
 
 <!-- Tags: _Graphics, Physics, WebGPU, Simulation_ -->
-
----
-
-### [rust-life-gpu](https://github.com/ShreyRavi/rust-life-gpu)  <img height="25px" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/wgpu%20-%23B7410E.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-GPU-parallelized cellular automaton in Rust and wgpu, running Conway's Game of Life and configurable rule sets at real-time frame rates across large grids. Each generation is computed in a single GPU dispatch rather than cell-by-cell on the CPU.
-
-<!-- Tags: _Rust, Graphics, GPU, Simulation_ -->
-
----
-
-### [shrey-os](https://github.com/ShreyRavi/shrey-os)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/claude%20-%23D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
-Personal AI operating system built on gstack with domain-specific skills including /gtm-plan, /hiring-decision, /pricing-strategy, /board-update, and /decision-framework. Functions as a structured reasoning environment for founder-level decisions rather than a general-purpose chat interface.
-
-<!-- Tags: _AI, Productivity, Claude, Automation_ -->
 
 ---
 
@@ -81,17 +60,52 @@ Chrome extension that blocks distracting websites, with 10,000+ active users. So
 
 ---
 
+### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
+
+<!-- Tags: _Productivity, Kanban, SaaS, Next.js, Supabase_ -->
+
+---
+
+### [rust-life-gpu](https://github.com/ShreyRavi/rust-life-gpu)  <img height="25px" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/wgpu%20-%23B7410E.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+GPU-parallelized cellular automaton in Rust and wgpu, running Conway's Game of Life and configurable rule sets at real-time frame rates across large grids. Each generation is computed in a single GPU dispatch rather than cell-by-cell on the CPU.
+
+<!-- Tags: _Rust, Graphics, GPU, Simulation_ -->
+
+---
+
+### [shrey-os](https://github.com/ShreyRavi/shrey-os)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/claude%20-%23D97757.svg?&style=for-the-badge&logo=anthropic&logoColor=white"/>
+Personal AI operating system built on gstack with domain-specific skills including /gtm-plan, /hiring-decision, /pricing-strategy, /board-update, and /decision-framework. Functions as a structured reasoning environment for founder-level decisions rather than a general-purpose chat interface.
+
+<!-- Tags: _AI, Productivity, Claude, Automation_ -->
+
+---
+
+### [prosemirror-toc](https://github.com/ShreyRavi/prosemirror-toc)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Table of contents plugin for ProseMirror that auto-generates and syncs a TOC from document heading nodes.
+
+<!-- Tags: _ProseMirror, Editor, Plugin, JavaScript_ -->
+
+---
+
+### [tui.table-of-contents](https://github.com/ShreyRavi/tui.table-of-contents)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Published npm plugin that adds table of contents generation to the Toast UI Editor.
+
+<!-- Tags: _npm, Toast UI, Editor, Plugin_ -->
+
+---
+
+### [tui.citation](https://github.com/ShreyRavi/tui.citation)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Citation insertion plugin for Toast UI Editor, adding formatted inline citation support to the editor toolbar.
+
+<!-- Tags: _Toast UI, Editor, Plugin, JavaScript_ -->
+
+---
+
 ### [atlas-trails](https://atlas-trails.vercel.app)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
 
 <!-- Tags: _PWA, Maps, Next.js, Travel_ -->
-
----
-
-### [tenens-health](https://tenenshealth.com)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-Health platform with a containerized Python backend and PostgreSQL data layer, deployed via Docker. Source at [github.com/ShreyRavi/tenens-health](https://github.com/ShreyRavi/tenens-health).
-
-<!-- Tags: _Health, Python, Docker, PostgreSQL_ -->
 
 ---
 
@@ -130,38 +144,10 @@ Published npm package implementing a boolean-based syntax language for CodeMirro
 
 ---
 
-### [prosemirror-toc](https://github.com/ShreyRavi/prosemirror-toc)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-Table of contents plugin for ProseMirror that auto-generates and syncs a TOC from document heading nodes.
-
-<!-- Tags: _ProseMirror, Editor, Plugin, JavaScript_ -->
-
----
-
-### [tui.table-of-contents](https://github.com/ShreyRavi/tui.table-of-contents)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-Published npm plugin that adds table of contents generation to the Toast UI Editor.
-
-<!-- Tags: _npm, Toast UI, Editor, Plugin_ -->
-
----
-
-### [tui.citation](https://github.com/ShreyRavi/tui.citation)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-Citation insertion plugin for Toast UI Editor, adding formatted inline citation support to the editor toolbar.
-
-<!-- Tags: _Toast UI, Editor, Plugin, JavaScript_ -->
-
----
-
 ### [SolarSystem](https://github.com/ShreyRavi/SolarSystem)  <img height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 Newtonian solar system simulation with PyGame rendering, modeling gravitational attraction between bodies using real physical constants.
 
 <!-- Tags: _Python, Simulation, Physics, PyGame_ -->
-
----
-
-### [digital-art](https://github.com/ShreyRavi/digital-art)  <img height="25px" src="https://img.shields.io/badge/p5.js%20-%23ED225D.svg?&style=for-the-badge&logo=p5.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-Collection of generative art and creative coding sketches written in p5.js.
-
-<!-- Tags: _Creative Coding, p5.js, Art_ -->
 
 ---
 
@@ -204,13 +190,6 @@ Chrome extension that removes all image elements from any page on activation, us
 Testbed used during development of the tui.table-of-contents and tui.citation plugins for Toast UI Editor.
 
 <!-- Tags: _Toast UI, Editor, JavaScript_ -->
-
----
-
-### [personal-website](https://shreyravi.github.io/personal-website/)  <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-Minimalist personal site in plain HTML, CSS, and JavaScript with no frameworks. Source at [github.com/ShreyRavi/personal-website](https://github.com/ShreyRavi/personal-website).
-
-<!-- Tags: _HTML, CSS, Personal Site_ -->
 
 ---
 
