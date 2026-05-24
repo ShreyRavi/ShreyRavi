@@ -39,6 +39,13 @@ Below is a breakdown of my technical skills. You can see projects using these te
 
 ## Repository Portfolio
 
+### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
+
+<!-- Tags: _Productivity, Kanban, SaaS, Next.js, Supabase_ -->
+
+---
+
 ### [orbit-crafter](https://github.com/ShreyRavi/orbit-crafter)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/webgpu%20-%23005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white"/>
 Real-time N-body physics sandbox with gravitational interactions computed entirely on the GPU via WebGPU compute shaders and WGSL, handling thousands of bodies at interactive frame rates. No CPU-side physics loop.
 
@@ -57,13 +64,6 @@ CHIP-8 emulator written in Rust with full instruction set coverage, display outp
 Chrome extension that blocks distracting websites, with 10,000+ active users. Source at [github.com/ShreyRavi/workmode](https://github.com/ShreyRavi/workmode).
 
 <!-- Tags: _Chrome Extension, Productivity_ -->
-
----
-
-### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
-
-<!-- Tags: _Productivity, Kanban, SaaS, Next.js, Supabase_ -->
 
 ---
 
