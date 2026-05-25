@@ -42,6 +42,13 @@ Below is a breakdown of my technical skills. You can see projects using these te
 ### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
 
+<!-- Tags: _Productivity, macOS, Swift_ -->
+
+---
+
+### [Clipstasher (MacOS)](https://github.com/ShreyRavi/clipstasher)  <img height="25px" src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/> 
+A privacy-first macOS menu bar app that captures your clipboard history locally. Open source, zero telemetry, no cloud sync. Source at [github.com/ShreyRavi/clipstasher](https://github.com/ShreyRavi/clipstasher).
+
 <!-- Tags: _Productivity, Kanban, SaaS, Next.js, Supabase_ -->
 
 ---
