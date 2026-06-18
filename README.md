@@ -47,6 +47,13 @@ Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aes
 ### [orbit-crafter](https://github.com/ShreyRavi/orbit-crafter)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/webgpu%20-%23005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white"/>
 Real-time N-body physics sandbox with gravitational interactions computed entirely on the GPU via WebGPU compute shaders and WGSL, handling thousands of bodies at interactive frame rates. No CPU-side physics loop.
 
+<!-- Tags: _PWA, Maps, Next.js, Travel_ -->
+
+---
+
+### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+Full-stack subscription tracker with real-time custom backend I host, and a modern UI frontend. Source at [github.com/ShreyRavi/subscribii](https://github.com/ShreyRavi/subscribii).
+
 <!-- Tags: _Graphics, Physics, WebGPU, Simulation_ -->
 
 ---
@@ -109,13 +116,6 @@ Citation insertion plugin for Toast UI Editor, adding formatted inline citation 
 
 ### [atlas-trails](https://atlas-trails.vercel.app)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
-
-<!-- Tags: _PWA, Maps, Next.js, Travel_ -->
-
----
-
-### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-Full-stack subscription tracker with Google OAuth, real-time Firebase backend, and a Material UI frontend. Source at [github.com/ShreyRavi/subscribii](https://github.com/ShreyRavi/subscribii).
 
 <!-- Tags: _React, Firebase, SaaS, Finance_ -->
 
