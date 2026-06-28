@@ -40,7 +40,7 @@ Below is a breakdown of my technical skills. You can see projects using these te
 ## Repository Portfolio
 
 ### [dibs.events](https://dibs.events/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-Frictionless shared to-do lists for ad-hoc group plans — a birthday, a trip, a potluck. Drop the link in any chat and everyone claims what they'll do, with no app and no login. A companion to Kansoboard, built on Next.js 15, Supabase, and Tailwind. Source at [github.com/ShreyRavi/dibs](https://github.com/ShreyRavi/dibs).
+Frictionless shared to-do lists for ad-hoc group plans - a birthday, a trip, a potluck. Drop the link in any chat and everyone claims what they'll do, with no app and no login. A companion to Kansoboard, built on Next.js 15, Supabase, and Tailwind. Source at [github.com/ShreyRavi/dibs](https://github.com/ShreyRavi/dibs).
 
 <!-- Tags: _Next.js, Supabase, Collaboration, Events_ -->
 
@@ -54,7 +54,7 @@ Kanban board and task list in one, named after kanso (簡素), the Japanese aest
 ---
 
 ### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pocketbase%20-%23B8DBE4.svg?&style=for-the-badge&logo=pocketbase&logoColor=black"/>
-Household subscription tracker — add subscriptions manually (no bank login, ever), see every recurring charge on a billing calendar, and share one view with the whole family. Works on iOS, Android, and web, backed by a self-hosted PocketBase backend. Live at [subscribii.com](https://subscribii.com).
+Household subscription tracker - add subscriptions manually (no bank login, ever), see every recurring charge on a billing calendar, and share one view with the whole family. Works on iOS, Android, and web, backed by a self-hosted PocketBase backend. Live at [subscribii.com](https://subscribii.com).
 
 <!-- Tags: _Next.js, PocketBase, SaaS, Finance_ -->
 
