@@ -39,20 +39,36 @@ Below is a breakdown of my technical skills. You can see projects using these te
 
 ## Repository Portfolio
 
-### [kansoboard.com](https://kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-Minimalist Kanban and Todo platform named after kanso (簡素), the Japanese aesthetic of simplicity, free for unlimited collaborators. Two coordinated views (board and date-grouped task list) with cross-view card linking, built on Next.js 15 App Router, Supabase Postgres with Realtime, and Tiptap rich text. Source at [github.com/ShreyRavi/kansoboard](https://github.com/ShreyRavi/kansoboard).
+### [dibs.events](https://dibs.events/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+Frictionless shared to-do lists for ad-hoc group plans — a birthday, a trip, a potluck. Drop the link in any chat and everyone claims what they'll do, with no app and no login. A companion to Kansoboard, built on Next.js 15, Supabase, and Tailwind. Source at [github.com/ShreyRavi/dibs](https://github.com/ShreyRavi/dibs).
+
+<!-- Tags: _Next.js, Supabase, Collaboration, Events_ -->
+
+---
+
+### [kansoboard.com](https://kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+Kanban board and task list in one, named after kanso (簡素), the Japanese aesthetic of simplicity. Multi-step work lives on shareable boards as cards; single to-dos are tasks that sit inside a card or loose across every board. Keyboard-first (⌘K), built for teams of 2–15, free for unlimited boards, cards, and collaborators. Built on Next.js 15, Supabase, and Tailwind. Live at [kansoboard.com](https://kansoboard.com/).
+
+<!-- Tags: _Next.js, Supabase, Kanban, Productivity_ -->
+
+---
+
+### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pocketbase%20-%23B8DBE4.svg?&style=for-the-badge&logo=pocketbase&logoColor=black"/>
+Household subscription tracker — add subscriptions manually (no bank login, ever), see every recurring charge on a billing calendar, and share one view with the whole family. Works on iOS, Android, and web, backed by a self-hosted PocketBase backend. Live at [subscribii.com](https://subscribii.com).
+
+<!-- Tags: _Next.js, PocketBase, SaaS, Finance_ -->
+
+---
+
+### [workmode.org](https://workmode.org)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+Chrome extension that blocks distracting websites, with 10,000+ active users. Source at [github.com/ShreyRavi/workmode](https://github.com/ShreyRavi/workmode).
+
+<!-- Tags: _Chrome Extension, Productivity_ -->
 
 ---
 
 ### [orbit-crafter](https://github.com/ShreyRavi/orbit-crafter)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/webgpu%20-%23005A9C.svg?&style=for-the-badge&logo=webgpu&logoColor=white"/>
 Real-time N-body physics sandbox with gravitational interactions computed entirely on the GPU via WebGPU compute shaders and WGSL, handling thousands of bodies at interactive frame rates. No CPU-side physics loop.
-
-<!-- Tags: _PWA, Maps, Next.js, Travel_ -->
-
----
-
-### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-Full-stack subscription tracker with real-time custom backend I host, and a modern UI frontend. Source at [github.com/ShreyRavi/subscribii](https://github.com/ShreyRavi/subscribii).
 
 <!-- Tags: _Graphics, Physics, WebGPU, Simulation_ -->
 
@@ -62,13 +78,6 @@ Full-stack subscription tracker with real-time custom backend I host, and a mode
 CHIP-8 emulator written in Rust with full instruction set coverage, display output, and keyboard input handling. A from-scratch systems programming exercise with no emulation libraries.
 
 <!-- Tags: _Rust, Emulator, Systems_ -->
-
----
-
-### [workmode.org](https://workmode.org)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-Chrome extension that blocks distracting websites, with 10,000+ active users. Source at [github.com/ShreyRavi/workmode](https://github.com/ShreyRavi/workmode).
-
-<!-- Tags: _Chrome Extension, Productivity_ -->
 
 ---
 
