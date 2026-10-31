@@ -39,6 +39,17 @@ Below is a breakdown of my technical skills. You can see projects using these te
 
 ## Repository Portfolio
 
+### [PaniPuriGame.com](https://panipurigame.com/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/mediapipe%20-%230097A7.svg?&style=for-the-badge&logo=google&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vite%20-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+A live pani puri eating contest for a wedding stall: one laptop mirrored to a TV runs the crowd display, the 60-second timer, and the leaderboard. The webcam counts every bite with MediaPipe face tracking in a Web Worker, and a referee can confirm or discount each one by hotkey. Fully offline after the first load (bundled models, WASM, and service worker), and private: no video leaves the laptop and nothing is recorded. Live at [panipurigame.com](https://panipurigame.com/), source at [github.com/ShreyRavi/pani-puri-contest](https://github.com/ShreyRavi/pani-puri-contest).
+
+<a href="https://panipurigame.com/media/pani-puri-demo.mp4"><img src="media/pani-puri-demo.gif" alt="Pani Puri Challenge demo: a contestant eats puris while the camera counts each bite" width="720"/></a>
+
+▶️ [Watch the full demo video](https://panipurigame.com/media/pani-puri-demo.mp4)
+
+<!-- Tags: _Computer Vision, MediaPipe, Games, Events_ -->
+
+---
+
 ### [dibs.events](https://dibs.events/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 Frictionless shared to-do lists for ad-hoc group plans - a birthday, a trip, a potluck. Drop the link in any chat and everyone claims what they'll do, with no app and no login. A companion to Kansoboard, built on Next.js 15, Supabase, and Tailwind. Source at [github.com/ShreyRavi/dibs](https://github.com/ShreyRavi/dibs).
 
@@ -53,6 +64,13 @@ Kanban board and task list in one, named after kanso (簡素), the Japanese aest
 
 ---
 
+### [kansowriter](https://kansowriter.vercel.app)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/codemirror%20-%23d30707.svg?&style=for-the-badge&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tauri%20-%2324C8DB.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
+A distraction-free, minimalist Zen writing app from the Kanso family. A CodeMirror 6 Markdown editor with paper and night themes, saved locally with Dexie, running on the web and as a native macOS desktop app via Tauri. Live at [kansowriter.vercel.app](https://kansowriter.vercel.app), source at [github.com/ShreyRavi/kansowriter](https://github.com/ShreyRavi/kansowriter).
+
+<!-- Tags: _Writing, CodeMirror, Tauri, Productivity_ -->
+
+---
+
 ### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pocketbase%20-%23B8DBE4.svg?&style=for-the-badge&logo=pocketbase&logoColor=black"/>
 Household subscription tracker - add subscriptions manually (no bank login, ever), see every recurring charge on a billing calendar, and share one view with the whole family. Works on iOS, Android, and web, backed by a self-hosted PocketBase backend. Live at [subscribii.com](https://subscribii.com).
 
@@ -64,6 +82,27 @@ Household subscription tracker - add subscriptions manually (no bank login, ever
 Chrome extension that blocks distracting websites, with 10,000+ active users. Source at [github.com/ShreyRavi/workmode](https://github.com/ShreyRavi/workmode).
 
 <!-- Tags: _Chrome Extension, Productivity_ -->
+
+---
+
+### [suitfold](https://shreyravi.github.io/suitfold/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/webrtc%20-%23333333.svg?&style=for-the-badge&logo=webrtc&logoColor=white"/>
+A live multiplayer card table you share with a five-character code. Drag, flip, pile, and shuffle cards in real time with friends, peer-to-peer over WebRTC with no game server. The app doesn't know what game you're playing: the rules live with the players, like a real deck, with table layouts, chips, and scoring for Hearts, poker, solitaire and more. Source at [github.com/ShreyRavi/suitfold](https://github.com/ShreyRavi/suitfold).
+
+<!-- Tags: _Multiplayer, WebRTC, Games, React_ -->
+
+---
+
+### [Trousseau](https://shreyravi.github.io/clothes-planner/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
+Plan every outfit for every function of a multi-day event, like a five-function Indian wedding. Start from a template, capture items from photos or links, see which slots are still missing, and share the plan as WhatsApp-ready images or a single link that never touches a server. No account: an installable offline PWA with local storage and backup files. Source at [github.com/ShreyRavi/clothes-planner](https://github.com/ShreyRavi/clothes-planner).
+
+<!-- Tags: _PWA, React, Events, Local-first_ -->
+
+---
+
+### [tournabracket](https://tournabracket.vercel.app)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
+No-login, offline-first tournament bracket generator with a retro pixel and Olympic look. Supports single and double elimination, round robin, Swiss, and 3-game guarantee, with drag-and-drop seeding and undo/redo. The whole tournament is compressed into the URL, so sharing a link hands over the bracket. Live at [tournabracket.vercel.app](https://tournabracket.vercel.app).
+
+<!-- Tags: _Tournaments, PWA, React, Games_ -->
 
 ---
 
@@ -92,6 +131,13 @@ GPU-parallelized cellular automaton in Rust and wgpu, running Conway's Game of L
 A privacy-first macOS menu bar app that captures your clipboard history locally. Open source, zero telemetry, no cloud sync. Source at [github.com/ShreyRavi/clipstasher](https://github.com/ShreyRavi/clipstasher).
 
 <!-- Tags: _Productivity, macOS, Swift_ -->
+
+---
+
+### [simplex-diff-checker](https://shreyravi.github.io/simplex-diff-checker/)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+Privacy-first text diff checker: paste two versions of a document and see changes highlighted like Word's Track Changes. Runs entirely in the browser with a Web Worker for large inputs, self-hosted fonts, no CDN, and zero network requests. Works offline. Source at [github.com/ShreyRavi/simplex-diff-checker](https://github.com/ShreyRavi/simplex-diff-checker).
+
+<!-- Tags: _Privacy, Tools, JavaScript_ -->
 
 ---
 
@@ -126,7 +172,7 @@ Citation insertion plugin for Toast UI Editor, adding formatted inline citation 
 ### [atlas-trails](https://atlas-trails.vercel.app)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
 
-<!-- Tags: _React, Firebase, SaaS, Finance_ -->
+<!-- Tags: _Next.js, PWA, Maps, Travel_ -->
 
 ---
 
