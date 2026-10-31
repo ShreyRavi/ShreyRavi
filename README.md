@@ -106,6 +106,13 @@ Real-time N-body physics sandbox with gravitational interactions computed entire
 
 ---
 
+### [atlas-trails](https://atlas.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+Live at [https://atlas.kansoboard.com/](https://atlas.kansoboard.com/). Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
+
+<!-- Tags: _Next.js, PWA, Maps, Travel_ -->
+
+---
+
 ### [chip8-rs](https://github.com/ShreyRavi/chip8-rs)  <img height="25px" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 CHIP-8 emulator written in Rust with full instruction set coverage, display output, and keyboard input handling. A from-scratch systems programming exercise with no emulation libraries.
 
@@ -159,13 +166,6 @@ Published npm plugin that adds table of contents generation to the Toast UI Edit
 Citation insertion plugin for Toast UI Editor, adding formatted inline citation support to the editor toolbar.
 
 <!-- Tags: _Toast UI, Editor, Plugin, JavaScript_ -->
-
----
-
-### [atlas-trails](https://atlas-trails.vercel.app)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
-
-<!-- Tags: _Next.js, PWA, Maps, Travel_ -->
 
 ---
 
