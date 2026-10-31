@@ -52,7 +52,7 @@ A live pani puri eating contest for a wedding stall: one laptop mirrored to a TV
 ### [atlas-trails](https://atlas.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 ![A trip playing across the globe](https://github.com/ShreyRavi/atlas-trails/blob/main/docs/demo.gif)
 
-Live at [https://atlas.kansoboard.com/](https://atlas.kansoboard.com/). Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
+Live at [https://atlas.kansoboard.com/](https://atlas.kansoboard.com/). Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Cross-platform and users have shared over 1,000+ journeys! Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
 
 <!-- Tags: _Next.js, PWA, Maps, Travel_ -->
 ---
