@@ -47,7 +47,14 @@ A live pani puri eating contest for a wedding stall: one laptop mirrored to a TV
 ▶️ [Watch the full demo video](https://panipurigame.com/media/pani-puri-demo.mp4)
 
 <!-- Tags: _Computer Vision, MediaPipe, Games, Events_ -->
+---
 
+### [atlas-trails](https://atlas.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+![A trip playing across the globe](https://github.com/ShreyRavi/atlas-trails/blob/main/docs/demo.gif)
+
+Live at [https://atlas.kansoboard.com/](https://atlas.kansoboard.com/). Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
+
+<!-- Tags: _Next.js, PWA, Maps, Travel_ -->
 ---
 
 ### [dibs.events](https://dibs.events/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -103,13 +110,6 @@ No-login, offline-first tournament bracket generator with a retro pixel and Olym
 Real-time N-body physics sandbox with gravitational interactions computed entirely on the GPU via WebGPU compute shaders and WGSL, handling thousands of bodies at interactive frame rates. No CPU-side physics loop.
 
 <!-- Tags: _Graphics, Physics, WebGPU, Simulation_ -->
-
----
-
-### [atlas-trails](https://atlas.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-Live at [https://atlas.kansoboard.com/](https://atlas.kansoboard.com/). Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Installable on mobile as a standalone app. Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
-
-<!-- Tags: _Next.js, PWA, Maps, Travel_ -->
 
 ---
 
