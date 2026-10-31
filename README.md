@@ -64,8 +64,8 @@ Kanban board and task list in one, named after kanso (簡素), the Japanese aest
 
 ---
 
-### [kansowriter](https://kansowriter.vercel.app)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/codemirror%20-%23d30707.svg?&style=for-the-badge&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tauri%20-%2324C8DB.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
-A distraction-free, minimalist Zen writing app from the Kanso family. A CodeMirror 6 Markdown editor with paper and night themes, saved locally with Dexie, running on the web and as a native macOS desktop app via Tauri. Live at [kansowriter.vercel.app](https://kansowriter.vercel.app), source at [github.com/ShreyRavi/kansowriter](https://github.com/ShreyRavi/kansowriter).
+### [kansowriter](https://writer.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/codemirror%20-%23d30707.svg?&style=for-the-badge&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tauri%20-%2324C8DB.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
+A distraction-free, minimalist Zen writing app from the Kanso family. A CodeMirror 6 Markdown editor with paper and night themes, saved locally with Dexie, running on the web and as a native macOS desktop app via Tauri. Live at [https://writer.kansoboard.com/](https://writer.kansoboard.com/), source at [github.com/ShreyRavi/kansowriter](https://github.com/ShreyRavi/kansowriter).
 
 <!-- Tags: _Writing, CodeMirror, Tauri, Productivity_ -->
 
@@ -85,13 +85,6 @@ Chrome extension that blocks distracting websites, with 10,000+ active users. So
 
 ---
 
-### [suitfold](https://shreyravi.github.io/suitfold/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/webrtc%20-%23333333.svg?&style=for-the-badge&logo=webrtc&logoColor=white"/>
-A live multiplayer card table you share with a five-character code. Drag, flip, pile, and shuffle cards in real time with friends, peer-to-peer over WebRTC with no game server. The app doesn't know what game you're playing: the rules live with the players, like a real deck, with table layouts, chips, and scoring for Hearts, poker, solitaire and more. Source at [github.com/ShreyRavi/suitfold](https://github.com/ShreyRavi/suitfold).
-
-<!-- Tags: _Multiplayer, WebRTC, Games, React_ -->
-
----
-
 ### [Trousseau](https://shreyravi.github.io/clothes-planner/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
 Plan every outfit for every function of a multi-day event, like a five-function Indian wedding. Start from a template, capture items from photos or links, see which slots are still missing, and share the plan as WhatsApp-ready images or a single link that never touches a server. No account: an installable offline PWA with local storage and backup files. Source at [github.com/ShreyRavi/clothes-planner](https://github.com/ShreyRavi/clothes-planner).
 
@@ -99,8 +92,8 @@ Plan every outfit for every function of a multi-day event, like a five-function 
 
 ---
 
-### [tournabracket](https://tournabracket.vercel.app)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
-No-login, offline-first tournament bracket generator with a retro pixel and Olympic look. Supports single and double elimination, round robin, Swiss, and 3-game guarantee, with drag-and-drop seeding and undo/redo. The whole tournament is compressed into the URL, so sharing a link hands over the bracket. Live at [tournabracket.vercel.app](https://tournabracket.vercel.app).
+### [tournabracket](https://bracket.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
+No-login, offline-first tournament bracket generator with a retro pixel and Olympic look. Supports single and double elimination, round robin, Swiss, and 3-game guarantee, with drag-and-drop seeding and undo/redo. The whole tournament is compressed into the URL, so sharing a link hands over the bracket. Live at [https://bracket.kansoboard.com/](https://bracket.kansoboard.com/).
 
 <!-- Tags: _Tournaments, PWA, React, Games_ -->
 
