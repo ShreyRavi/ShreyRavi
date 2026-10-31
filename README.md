@@ -85,8 +85,8 @@ Chrome extension that blocks distracting websites, with 10,000+ active users. So
 
 ---
 
-### [Trousseau](https://shreyravi.github.io/clothes-planner/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
-Plan every outfit for every function of a multi-day event, like a five-function Indian wedding. Start from a template, capture items from photos or links, see which slots are still missing, and share the plan as WhatsApp-ready images or a single link that never touches a server. No account: an installable offline PWA with local storage and backup files. Source at [github.com/ShreyRavi/clothes-planner](https://github.com/ShreyRavi/clothes-planner).
+### [Trousseau](https://clothes.kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
+Live at [https://clothes.kansoboard.com](https://clothes.kansoboard.com). Plan every outfit for every function of a multi-day event, like a five-function Indian wedding. Start from a template, capture items from photos or links, see which slots are still missing, and share the plan as WhatsApp-ready images or a single link that never touches a server. No account: an installable offline PWA with local storage and backup files. Source at [github.com/ShreyRavi/clothes-planner](https://github.com/ShreyRavi/clothes-planner).
 
 <!-- Tags: _PWA, React, Events, Local-first_ -->
 
