@@ -263,4 +263,4 @@ Browser-based Etch-a-Sketch with a resizable grid and color options, built for T
 
 ## Statistics
 
-[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyRavi)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreyas's GitHub stats](https://shreyravi-github-stats.vercel.app/api?username=ShreyRavi)](https://github.com/stats-organization/github-stats-extended)
