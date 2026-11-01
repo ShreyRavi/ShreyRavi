@@ -50,11 +50,43 @@ A live pani puri eating contest for a wedding stall: one laptop mirrored to a TV
 ---
 
 ### [atlas-trails](https://atlas.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-![A trip playing across the globe](https://github.com/ShreyRavi/atlas-trails/blob/main/docs/demo.gif)
+<a href="https://atlas.kansoboard.com/"><img src="media/atlas-trails-demo.gif" alt="Atlas Trails demo: a trip playing across the globe" width="720"/></a>
 
 Live at [https://atlas.kansoboard.com/](https://atlas.kansoboard.com/). Travel journal PWA where users log trips, drop pins on an interactive world map, and build a personal cartographic record. Cross-platform and users have shared over 1,000+ journeys! Source at [github.com/ShreyRavi/atlas-trails](https://github.com/ShreyRavi/atlas-trails).
 
 <!-- Tags: _Next.js, PWA, Maps, Travel_ -->
+---
+
+### [Kansoboard.com: the Kansotool Suite](https://kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tauri%20-%2324C8DB.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
+Calm, minimalist software for everyday work, named after kanso (簡素), the Japanese aesthetic of simplicity. A suite of focused tools for writing, planning, and getting things done, designed to be fast, private, and secure: local-first by default, no ads or trackers, two-factor auth and row-level security where there is a server, performance budgets measured on every release, and the same product on the web and as a native desktop app. See the whole suite at [kansoboard.com](https://kansoboard.com/).
+
+#### [Kansoboard](https://kansoboard.com/) · _Private beta_
+<img src="media/kansoboard/kansoboard-demo.gif" alt="Kansoboard demo: completing a task, dragging a card to In Progress, and ticking off its tasks" width="720"/>
+
+A calm Kanban board and task list in one. Multi-step work lives on shareable boards as cards; single to-dos are tasks that sit inside a card or loose across every board. Keyboard-first (⌘K) and built for teams of 2–15. Optimistic drag-and-drop with writes serialized per board, encrypted backups (a passphrase-wrapped ECDH P-256 key plus a device copy that opens with no server), and board consistency enforced by Postgres row-level security. Built on Next.js 16, React 19, Supabase, TanStack Query, and dnd-kit.
+
+#### Kansotodo · _Private beta_
+<img src="media/kansoboard/kansotodo-demo.gif" alt="Kansotodo demo: ticking a step, completing and adding tasks, reordering, and switching lists" width="720"/>
+
+Your lists, ordered your way: priorities that mean something and your own order within every day. Offline-first with an AES-GCM encrypted local cache and a replayable mutation queue, required TOTP two-factor enforced in row-level security, a strict hash-based CSP, and 360+ pgTAP tests. Built on Next.js 15, React 19, Supabase Realtime, and a Tauri 2 Mac app.
+
+#### [Kansowriter](https://writer.kansoboard.com/) · _Live_
+<a href="https://writer.kansoboard.com/"><img src="media/kansoboard/kansowriter-demo.gif" alt="Kansowriter demo: writing in the distraction-free editor" width="640"/></a>
+
+A quiet place to write. A distraction-free CodeMirror 6 Markdown editor with paper and night themes; drafts stay on your device (Dexie/IndexedDB) and there is no account. Runs on the web and as a native macOS app via Tauri that edits .md files in place. Live at [writer.kansoboard.com](https://writer.kansoboard.com/), source at [github.com/ShreyRavi/kansowriter](https://github.com/ShreyRavi/kansowriter).
+
+#### [Trousseau](https://clothes.kansoboard.com) · _Live_
+<a href="https://clothes.kansoboard.com"><img src="media/kansoboard/trousseau-demo.gif" alt="Trousseau demo: creating an Indian wedding plan and picking a Mehendi outfit" width="720"/></a>
+
+Plan every outfit for every function of a multi-day event, like a five-function Indian wedding. Start from a template, capture items from photos or links, see which slots are still missing, and share the plan as WhatsApp-ready images or a single link that never touches a server. No account: an installable offline PWA with local storage and backup files. Live at [clothes.kansoboard.com](https://clothes.kansoboard.com), source at [github.com/ShreyRavi/clothes-planner](https://github.com/ShreyRavi/clothes-planner).
+
+#### [Subscribii](https://finance.kansoboard.com/) · _Live demo_
+<a href="https://finance.kansoboard.com/"><img src="media/kansoboard/subscribii-demo.gif" alt="Subscribii demo: projected spend, adding a subscription, and the billing calendar" width="720"/></a>
+
+Every subscription and your net worth, for the whole family, in one encrypted file on your own computer. No accounts, no servers, no bank logins: the family file is sealed with XChaCha20-Poly1305 and Argon2id key slots for a password and a recovery phrase, implemented in Rust. Renewal dates, per-member spend, and the household's monthly and yearly totals at a glance. Built on Next.js 16, React 19, and a Tauri 2 desktop app; the web demo at [finance.kansoboard.com](https://finance.kansoboard.com/) runs on sample data in your browser.
+
+<!-- Tags: _Next.js, Supabase, Tauri, Local-first, Productivity_ -->
+
 ---
 
 ### [dibs.events](https://dibs.events/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -64,38 +96,10 @@ Frictionless shared to-do lists for ad-hoc group plans - a birthday, a trip, a p
 
 ---
 
-### [kansoboard.com](https://kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/supabase%20-%233FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-Kanban board and task list in one, named after kanso (簡素), the Japanese aesthetic of simplicity. Multi-step work lives on shareable boards as cards; single to-dos are tasks that sit inside a card or loose across every board. Keyboard-first (⌘K), built for teams of 2–15, free for unlimited boards, cards, and collaborators. Built on Next.js 15, Supabase, and Tailwind. Live at [kansoboard.com](https://kansoboard.com/).
-
-<!-- Tags: _Next.js, Supabase, Kanban, Productivity_ -->
-
----
-
-### [kansowriter](https://writer.kansoboard.com/)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/codemirror%20-%23d30707.svg?&style=for-the-badge&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/tauri%20-%2324C8DB.svg?&style=for-the-badge&logo=tauri&logoColor=white"/>
-A distraction-free, minimalist Zen writing app from the Kanso family. A CodeMirror 6 Markdown editor with paper and night themes, saved locally with Dexie, running on the web and as a native macOS desktop app via Tauri. Live at [https://writer.kansoboard.com/](https://writer.kansoboard.com/), source at [github.com/ShreyRavi/kansowriter](https://github.com/ShreyRavi/kansowriter).
-
-<!-- Tags: _Writing, CodeMirror, Tauri, Productivity_ -->
-
----
-
-### [subscribii.com](https://subscribii.com)  <img height="25px" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pocketbase%20-%23B8DBE4.svg?&style=for-the-badge&logo=pocketbase&logoColor=black"/>
-Household subscription tracker - add subscriptions manually (no bank login, ever), see every recurring charge on a billing calendar, and share one view with the whole family. Works on iOS, Android, and web, backed by a self-hosted PocketBase backend. Live at [subscribii.com](https://subscribii.com).
-
-<!-- Tags: _Next.js, PocketBase, SaaS, Finance_ -->
-
----
-
 ### [workmode.org](https://workmode.org)  <img height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="25px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 Chrome extension that blocks distracting websites, with 10,000+ active users. Source at [github.com/ShreyRavi/workmode](https://github.com/ShreyRavi/workmode).
 
 <!-- Tags: _Chrome Extension, Productivity_ -->
-
----
-
-### [Trousseau](https://clothes.kansoboard.com)  <img height="25px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img height="25px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="25px" src="https://img.shields.io/badge/pwa%20-%235A0FC8.svg?&style=for-the-badge&logo=pwa&logoColor=white"/>
-Live at [https://clothes.kansoboard.com](https://clothes.kansoboard.com). Plan every outfit for every function of a multi-day event, like a five-function Indian wedding. Start from a template, capture items from photos or links, see which slots are still missing, and share the plan as WhatsApp-ready images or a single link that never touches a server. No account: an installable offline PWA with local storage and backup files. Source at [github.com/ShreyRavi/clothes-planner](https://github.com/ShreyRavi/clothes-planner).
-
-<!-- Tags: _PWA, React, Events, Local-first_ -->
 
 ---
 
